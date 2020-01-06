@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on </title>
+    <link>https://roya-sabbagh.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Roya Sabbagh Novin</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://roya-sabbagh.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamics Model Learning and Manipulation Planning for Objects in Hospitals Using a Patient Assistant Mobile (PAM) Robot</title>
+      <link>https://roya-sabbagh.github.io/publication/iros2018-pam/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://roya-sabbagh.github.io/publication/iros2018-pam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Study on Optimal Motion Planning of Wheeled Mobile Robot Using Convex Optimization and Receding Horizon Concept</title>
+      <link>https://roya-sabbagh.github.io/publication/icrom2016-wheeled/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://roya-sabbagh.github.io/publication/icrom2016-wheeled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Experimental Study on The Failure-Tolerant Control of a Redundant Planar Serial Manipulator Via Pseudo-Inverse Approach</title>
+      <link>https://roya-sabbagh.github.io/publication/icrom2015-fault/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://roya-sabbagh.github.io/publication/icrom2015-fault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path planning of 3-RRR parallel robot by avoiding mechanical interferences via Artificial Potential Field</title>
+      <link>https://roya-sabbagh.github.io/publication/icrom2015-apf/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://roya-sabbagh.github.io/publication/icrom2015-apf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workspace Determination of Planar Parallel Robots via Progressive Growing Neural Gas Network</title>
+      <link>https://roya-sabbagh.github.io/publication/icrom2014-pgngn/</link>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://roya-sabbagh.github.io/publication/icrom2014-pgngn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
