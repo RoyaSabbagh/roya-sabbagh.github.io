@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Estimating Human Teleoperator Posture Using Only a Haptic-Input Device</title>
+      <link>https://royasabbagh.github.io/publication/iros2020-posture/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://royasabbagh.github.io/publication/iros2020-posture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Risk-Aware Planning</title>
       <link>https://royasabbagh.github.io/project/risk_aware_planning/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 -0700</pubDate>
@@ -216,15 +225,6 @@ In this project we propose a novel method to estimate human posture in telemanip
       <guid>https://royasabbagh.github.io/project/afs/</guid>
       <description>&lt;p&gt;A novel actuated gait simulator has been developed that fits inside a typical shoe and has sufficient load capability and range of motion to mimic adult gait patterns. The control system includes passive ankle stiffness which is responsible for a more biomechanical behavior. The ankle demonstrates passive ankle stiffness when irregular terrain is encountered. Beyond the present application of the device as a testing platform for haptic smart orthotics, it can also be used as a test platform for studying slip events between different types of shoes and varying terrain. In order to have more realistic and biomechanical responses, a centralized control system is being developed which will perform based on a biomechanical model of human gait .&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>An Experimental Study on The Failure-Tolerant Control of a Redundant Planar Serial Manipulator Via Pseudo-Inverse Approach</title>
-      <link>https://royasabbagh.github.io/publication/icrom2015-fault/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
-      
-      <guid>https://royasabbagh.github.io/publication/icrom2015-fault/</guid>
-      <description></description>
     </item>
     
   </channel>
