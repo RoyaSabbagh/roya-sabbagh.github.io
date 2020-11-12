@@ -11,23 +11,52 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Estimating Human Teleoperator Posture Using Only a Haptic-Input Device</title>
-      <link>https://royasabbagh.github.io/publication/iros2020-posture/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 -0700</pubDate>
+      <title>Risk-Aware Planning</title>
+      <link>https://royasabbagh.github.io/project/risk_aware_planning/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0600</pubDate>
       
-      <guid>https://royasabbagh.github.io/publication/iros2020-posture/</guid>
+      <guid>https://royasabbagh.github.io/project/risk_aware_planning/</guid>
+      <description>&lt;p&gt;In order to assist the patient efficiently, we develop a risk-aware planning framework which finds the best manipulation plan that minimizes the fall risk probability with minimum robot effort.
+We view the risk-aware planning problem from the perspective of probabilistic inference and solve it as a multi-objective optimization problem.
+For the fall risk objective, we use a linear combination of expected value and CVaR to minimize the overall risk of fall while avoiding even low probabilities of high fall risks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk-Aware Decision Making in Service Robots to Minimize Risk of Patient Falls in Hospitals</title>
+      <link>https://royasabbagh.github.io/publication/icra-riskaware/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 -0600</pubDate>
+      
+      <guid>https://royasabbagh.github.io/publication/icra-riskaware/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Risk-Aware Planning</title>
-      <link>https://royasabbagh.github.io/project/risk_aware_planning/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 -0700</pubDate>
+      <title>Human Posture Optimization</title>
+      <link>https://royasabbagh.github.io/project/pose_optimization/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 -0600</pubDate>
       
-      <guid>https://royasabbagh.github.io/project/risk_aware_planning/</guid>
-      <description>&lt;p&gt;In order to assist the patient efficiently, we develop a risk-aware planning framework which finds the best manipulation plan that minimizes the fall risk probability with minimum robot effort.
-We view the risk-aware planning problem from the perspective of probabilistic inference and solve it as a multi-objective optimization problem and find the pareto frontier to show the trade-off of the two objectives.
-For the fall risk objective, we use a linear combination of expected value and CVaR to minimize the overall risk of fall while avoiding even low probabilities of high fall risks.&lt;/p&gt;
+      <guid>https://royasabbagh.github.io/project/pose_optimization/</guid>
+      <description>&lt;p&gt;Although  teleoperation  is  a  promising  alternative to avoid injuries in high-risk tasks, awkward postures are still a primary contributor to works-related musculoskeletal disorders in   teleoperation.   An   ergonomically   intelligent   teleoperation system  could  reduce  risk  by  providing  feedback  for  postural correction.  In  this  project,  we  introduce  a  novel  framework for  postural  optimization  in  teleoperation  that  benefits  from common  risk  assessment  tools  in  ergonomics  and  provides online postural correction as well as optimal initial posture correction for a teleoperator according to the type of teleoperation task. We evaluate our framework in a simulated teleoperation environment  including  the  robots  and  the  human.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is The Leader Robot an Adequate Sensor for Posture Estimation and Ergonomic Assessment of A Human Teleoperator?</title>
+      <link>https://royasabbagh.github.io/publication/posture-estimation/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 -0600</pubDate>
+      
+      <guid>https://royasabbagh.github.io/publication/posture-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Hospital Patient Room Design</title>
+      <link>https://royasabbagh.github.io/project/room_optimization/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 -0600</pubDate>
+      
+      <guid>https://royasabbagh.github.io/project/room_optimization/</guid>
+      <description>&lt;p&gt;Despite years of research into patient falls in hospital rooms, falls and related injuries remain a serious concern to patient safety. In this work, we formulate a gradient-free constrained optimization problem to generate and reconfigure the hospital room interior layout to minimize the risk of falls. We define a cost function built on a hospital room fall model that takes into account the supportive or hazardous effect of the patient’s surrounding objects, as well as simulated patient trajectories inside the room. We define a constraint set that ensures the functionality of the generated room layouts in addition to conforming to architectural guidelines. We solve this problem efficiently using a variant of simulated annealing. We present results for two real-world hospital room types and demonstrate a significant improvement of 18% on average in patient fall risk when compared with a traditional hospital room layout and 41% when compared with randomly generated layouts.&lt;/p&gt;
 </description>
     </item>
     
@@ -88,13 +117,12 @@ For the fall risk objective, we use a linear combination of expected value and C
     </item>
     
     <item>
-      <title>Intelligent Hospital Patient Room Design</title>
+      <title>Patient Fall Risk Evaluation Model</title>
       <link>https://royasabbagh.github.io/project/fall_model/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 -0600</pubDate>
       
       <guid>https://royasabbagh.github.io/project/fall_model/</guid>
-      <description>&lt;p&gt;A major safety concern in hospitals is patient falls. Falls often increase length of stay, reduce quality of life, and are costly to both patients and health care providers. This project focuses on fall risk prediction based on environmental features and provides an optimized patient hospital room design to decrease risk of fall.
-We have developed an algorithm to find fall risk distributions within a room or along a trajectory based on fixed environmental features, semi-variable patient features, and variable trajectory features. To better understand the separate influence of each feature, we are conducting a human subject study to analyze the effect of each feature on a person’s stability and risk of fall.&lt;/p&gt;
+      <description>&lt;p&gt;A major safety concern in hospitals is patient falls. Falls often increase length of stay, reduce quality of life, and are costly to both patients and health care providers. This project focuses on fall risk prediction based on environmental features and provides an optimized patient hospital room design to decrease risk of fall. We have developed an algorithm to find fall risk distributions within a room or along a trajectory based on fixed environmental features, semi-variable patient features, and variable trajectory features. To better understand the separate influence of each feature, we are conducting a human subject study to analyze the effect of each feature on a person’s stability and risk of fall.&lt;/p&gt;
 </description>
     </item>
     
@@ -178,53 +206,6 @@ In this project we propose a novel method to estimate human posture in telemanip
       
       <guid>https://royasabbagh.github.io/publication/advrobotics2016-optimal/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Mobile Robot Visual Localization and 3D Map Generation</title>
-      <link>https://royasabbagh.github.io/course_project/mobile_localization/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://royasabbagh.github.io/course_project/mobile_localization/</guid>
-      <description>&lt;p&gt;Course: ME CS 6320- 3D Computer Vision&lt;/p&gt;
-
-&lt;p&gt;In this project, we will implement a Visual Odometry method on a Roomba iCreate 2 which is equipped with a Microsoft Kinect RGB-D sensor for localization and map generation. Although the mobile robot is moving on a 2D plane (ground), the localization and map generation algorithms are for 3D environments, so the final results are in 3D. At the end, we will evaluate our approach by comparing resulted localization with results from robot odometry, LIDAR sensor localization, or GPS data. Finally, we made a ROS package which includes different nodes for various parts of the algorithm.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;mobile1.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Indoor localization using graph-based SLAM with Kinect, LIDAR, and robot odometry.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Optimal Motion Planning of Redundant Planar Serial Robots Using A Synergy-Based Approach of Convex Optimization, Disjunctive Programming and Receding Horizon</title>
-      <link>https://royasabbagh.github.io/publication/imeche2016-optimal/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://royasabbagh.github.io/publication/imeche2016-optimal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotic Ankle Foot Simulator</title>
-      <link>https://royasabbagh.github.io/project/afs/</link>
-      <pubDate>Tue, 27 Oct 2015 00:00:00 -0600</pubDate>
-      
-      <guid>https://royasabbagh.github.io/project/afs/</guid>
-      <description>&lt;p&gt;A novel actuated gait simulator has been developed that fits inside a typical shoe and has sufficient load capability and range of motion to mimic adult gait patterns. The control system includes passive ankle stiffness which is responsible for a more biomechanical behavior. The ankle demonstrates passive ankle stiffness when irregular terrain is encountered. Beyond the present application of the device as a testing platform for haptic smart orthotics, it can also be used as a test platform for studying slip events between different types of shoes and varying terrain. In order to have more realistic and biomechanical responses, a centralized control system is being developed which will perform based on a biomechanical model of human gait .&lt;/p&gt;
-</description>
     </item>
     
   </channel>

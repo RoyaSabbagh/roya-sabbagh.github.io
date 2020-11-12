@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Roya Sabbagh Novin</copyright>
-    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://royasabbagh.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Estimating Human Teleoperator Posture Using Only a Haptic-Input Device</title>
-      <link>https://royasabbagh.github.io/publication/iros2020-posture/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 -0700</pubDate>
+      <title>Risk-Aware Decision Making in Service Robots to Minimize Risk of Patient Falls in Hospitals</title>
+      <link>https://royasabbagh.github.io/publication/icra-riskaware/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 -0600</pubDate>
       
-      <guid>https://royasabbagh.github.io/publication/iros2020-posture/</guid>
+      <guid>https://royasabbagh.github.io/publication/icra-riskaware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is The Leader Robot an Adequate Sensor for Posture Estimation and Ergonomic Assessment of A Human Teleoperator?</title>
+      <link>https://royasabbagh.github.io/publication/posture-estimation/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 -0600</pubDate>
+      
+      <guid>https://royasabbagh.github.io/publication/posture-estimation/</guid>
       <description></description>
     </item>
     
