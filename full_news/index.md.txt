@@ -1,0 +1,30 @@
+---
+title: "News"  # Add a page title.
+summary: "My personal news!"  # Add a page description.
+date: "2021-10-10T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
+---
+
+
+| Date                            | Description                    |
+| --------------------------------| ------------------------------ |
+|   October 2021    |Received [the Outstanding Graduate Student Researcher of the Year Award 2020-2021](https://ergo.mech.utah.edu/2021/10/04/roya-sabbagh-novin-outstanding-graduate-student-researcher/) from the Department of Mechanical Engineering at University of Utah|
+|   September 2021  |Our [paper](https://arxiv.org/abs/2108.05971) titled "Ergonomically Intelligent Physical Human-Robot Interaction: Postural Estimation, Assessment, and Optimization" got accepted to [AI-HRI 2021](https://ai-hri.github.io/2021/)|
+|   July 2021       |Our [short paper](https://arxiv.org/abs/2107.06875) titled "DULA: A Differentiable Ergonomics Model for Postural Optimization in Physical HRI" got accepted to [RSS 2021 workshop Robotics For People: Perspectives on Interaction, Learning and Safety](https://sites.google.com/view/r4p2021/)|
+|   June 2021       |Our [paper](https://arxiv.org/abs/2002.10586) titled "Is The Leader Robot an Adequate Sensor for Posture Estimation and Ergonomic Assessment of A Human Teleoperator?" got accepted to [IEEE CASE 2021](https://case2021.sciencesconf.org/)|
+|   May 2021        |Joined [Embark Trucks](https://embarktrucks.com) as a Behavior Planning Software Engineer|
+|   February 2021   |Our [paper](https://arxiv.org/abs/2010.08124) titled "Risk-Aware Decision Making in Service Robots to Minimize Risk of Patient Falls in Hospitals" got accepted to [ICRA 2021](http://www.icra2021.org/) ([Video](https://youtu.be/WmYb1sxsIjg))|
+|   December 2020   |Our extended abstract on "Posture Estimation and Postural Optimization in Teleoperation" is selected for presentation at the [HRI Pioneers 2021](http://www.hripioneers.info/hri21/) as a part of the IEEE/ACM HRI conference|
+|   December 2020   |Our [paper](https://arxiv.org/abs/1912.09565) titled "A Model Predictive Approach for Online Mobile Manipulation of Nonholonomic Objects using Learned Dynamics" got accepted to [IJRR](https://journals.sagepub.com/home/ijr)|
+|   December 2020   |Passed my PhD dissertation defense ([Video](https://youtu.be/71lQUiLp8ow))|
+|   November 2020   |Collaborative [paper](https://www.scitepress.org/PublicationsDetail.aspx?ID=WqgYq94KR3M=&t=1) on hospital room layout optimization is accepted to [ICORES 2021](http://www.icores.org/)|
+|   October 2020    |Our work on computational model of patients fall risk is [featured](https://www.coe.utah.edu/2020/10/19/reducing-the-risk-of-a-fall/) by University of Utah, College of Engineering|
+|   September 2020  |Our [paper](https://journals.sagepub.com/doi/full/10.1177/1937586720959766) on patient fall risk evaluation got published in HERD journal|
+|   April 2019      |Passed my [PhD Proposal](https://mech.utah.edu/calendar/?trumbaEmbed=eventid%3D131778738%26view%3Devent%26-childview%3D)
+|   April 2019      |Received the 2019 Dr. Paul Richards's Safe Workplace [Scholarship](https://ergo.mech.utah.edu/2019/04/18/2019-paul-s-richards-wcf-safe-workplace-scholarship/)
+|   November 2018   |Talk at [Rocky Mountain Celebration of Women in Computing](https://rmcwic2018.cs.du.edu/), Colorado|
+|   October 2018    |{{% staticref "files/papers/sabbagh-iros-2018-dynamics-learning.pdf" "newtab" %}}Paper{{% /staticref %}} presented at [IROS 2018](https://www.iros2018.org/), Mardid, Spain|
+|   April 2018      |Received the 2018 ASSP Foundation Scholarship|
+|   May 2018        |Received the 2018 Dr. Paul Richards's Safe Workplace [Scholarship](https://medicine.utah.edu/rmcoeh/files/spring-2018-e-newsletter.pdf)|
+|   July 2017       |Poster presented at [ICAMPAM 2018](https://ismpb.org/2017-bethesda/), Bethesda, MD|
+|   October 2016    |Passed my PhD qualifying exam|

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Roya Sabbagh Novin</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2016 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://royasabbagh.github.io/course_project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Motion Planning in Danger Zones</title>
       <link>https://royasabbagh.github.io/course_project/rrt/</link>
-      <pubDate>Sun, 27 Nov 2016 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 -0800</pubDate>
       
       <guid>https://royasabbagh.github.io/course_project/rrt/</guid>
       <description>In this project, a RRT-based method to cope with quadrotor path planning problem in damaged structures is proposed. First, a Graphic User Interface (GUI) was developed to define the environment conveniently. Then, RRT was used as basic path generating method. Besides, the limit on acceleration of the robot was considered to meet its dynamic constraints, and cost function was proposed to avoid danger zones in the environment. Next, B-spline method was implemented to achieve the smoothing of the final path.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Object Recognition</title>
       <link>https://royasabbagh.github.io/course_project/object_recognition/</link>
-      <pubDate>Sun, 27 Nov 2016 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 -0800</pubDate>
       
       <guid>https://royasabbagh.github.io/course_project/object_recognition/</guid>
       <description>This project is focused on single object recognition and classification. The MNIST database is used as the image dataset. A single layer CNN is developed which consists of a convolutional layer and a pooling layer. The results obtained for this database is test accuracy of around 97.44% which is comparable with the results found in the literature. In the next step, the single layer CNN is expanded to a three-layer CNN for the CIFAR-10 database in order to classify each image to one of the 10 known categories.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Mobile Robot Visual Localization and 3D Map Generation</title>
       <link>https://royasabbagh.github.io/course_project/mobile_localization/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 -0600</pubDate>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0700</pubDate>
       
       <guid>https://royasabbagh.github.io/course_project/mobile_localization/</guid>
       <description>Course: ME CS 6320- 3D Computer Vision

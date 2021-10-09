@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Roya Sabbagh Novin</copyright>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://royasabbagh.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Risk-Aware Decision Making in Service Robots to Minimize Risk of Patient Falls in Hospitals</title>
       <link>https://royasabbagh.github.io/publication/icra-riskaware/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 -0700</pubDate>
       
       <guid>https://royasabbagh.github.io/publication/icra-riskaware/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Is The Leader Robot an Adequate Sensor for Posture Estimation and Ergonomic Assessment of A Human Teleoperator?</title>
       <link>https://royasabbagh.github.io/publication/posture-estimation/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 -0700</pubDate>
       
       <guid>https://royasabbagh.github.io/publication/posture-estimation/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Dynamics Model Learning and Manipulation Planning for Objects in Hospitals Using a Patient Assistant Mobile (PAM) Robot</title>
       <link>https://royasabbagh.github.io/publication/iros2018-pam/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 -0800</pubDate>
       
       <guid>https://royasabbagh.github.io/publication/iros2018-pam/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Experimental Study on Optimal Motion Planning of Wheeled Mobile Robot Using Convex Optimization and Receding Horizon Concept</title>
       <link>https://royasabbagh.github.io/publication/icrom2016-wheeled/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0700</pubDate>
       
       <guid>https://royasabbagh.github.io/publication/icrom2016-wheeled/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>An Experimental Study on The Failure-Tolerant Control of a Redundant Planar Serial Manipulator Via Pseudo-Inverse Approach</title>
       <link>https://royasabbagh.github.io/publication/icrom2015-fault/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
       
       <guid>https://royasabbagh.github.io/publication/icrom2015-fault/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Path planning of 3-RRR parallel robot by avoiding mechanical interferences via Artificial Potential Field</title>
       <link>https://royasabbagh.github.io/publication/icrom2015-apf/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
       
       <guid>https://royasabbagh.github.io/publication/icrom2015-apf/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Workspace Determination of Planar Parallel Robots via Progressive Growing Neural Gas Network</title>
       <link>https://royasabbagh.github.io/publication/icrom2014-pgngn/</link>
-      <pubDate>Tue, 09 Sep 2014 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 -0700</pubDate>
       
       <guid>https://royasabbagh.github.io/publication/icrom2014-pgngn/</guid>
       <description></description>
